@@ -53,3 +53,6 @@ curl http://localhost:8000/v1/recommendations/123
 - Exemplo de retorno:
 
 {"user_id":123,"products":{"0":{"product_title":"Home Theater Sony","product_price":17.93,"product_image_url":"https://www.lorempixel.com/449/871","store_name":"Centauro"},"1":{"product_title":"Kindle Paperwhite","product_price":346.73,"product_image_url":"https://www.lorempixel.com/755/108","store_name":"Fnac"},"2":{"product_title":"Smart Lâmpada LED","product_price":529.3,"product_image_url":"https://placekitten.com/564/438","store_name":"Shoptime"},"3":{"product_title":"HD Externo Seagate","product_price":818.51,"product_image_url":"https://placekitten.com/653/655","store_name":"Casas Bahia"},"4":{"product_title":"Console Playstation 5","product_price":980.57,"product_image_url":"https://placeimg.com/205/364/any","store_name":"Carrefour"}}}
+
+
+...
